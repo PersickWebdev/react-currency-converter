@@ -1,0 +1,12 @@
+.currencyRow__input {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.currencyRow__select {
+    padding: 7px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin-left: 10px;
+}

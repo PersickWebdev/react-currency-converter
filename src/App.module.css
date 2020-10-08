@@ -1,0 +1,8 @@
+.app__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #4d4d4d;
+  text-align: center;
+}
